@@ -1,10 +1,7 @@
-Go Hello World Demo
-===================
+Go big.Int Demo
+===============
 
 ```
-brew install go
-go get
 go run hello.go
 ```
 
-You will see `Hello, go!`
